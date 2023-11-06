@@ -4,7 +4,7 @@ project:
   teamId: '123'
   identities:
     pivotal: 'https://www.pivotaltracker.com/n/projects/2682705'
-    heroku: 'https://fernanda-pisconte.herokuapp.com/'
+    heroku: 'https://git.heroku.com/fa23-00.git'
   members:
     member1:
       name: 'Governify'
