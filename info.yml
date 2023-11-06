@@ -4,7 +4,7 @@ project:
   teamId: '123'
   identities:
     pivotal: 'https://www.pivotaltracker.com/n/projects/2682705'
-    heroku: 'https://fa23-00-3575703f9b3a.herokuapp.com/'
+    heroku: 'https://fa23-00-3575703f9b3a.herokuapp.com'
   notifications: {}
   members:
     member1:
