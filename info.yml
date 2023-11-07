@@ -2,20 +2,15 @@ project:
   name: 'Testing chips 10.5'
   owner: fernandapisconte
   teamId: '123'
-  identities:
-    pivotal: 'https://www.pivotaltracker.com/n/projects/2682705'
-    heroku: 'https://fa23-00.herokuapp.com'
-  notifications: {}
+  identities: {}
+  notifications:
+	email: 'fpisconte@berkeley.edu'
   members:
     member1:
       name: Governify
       surname: Auditor
       githubUsername: governifyauditor
-      pivotalUsername: governifyauditor
-      herokuEmail: governify.auditor@gmail.com
     member2:
       name: Fernanda
       surname: Pisconte
       githubUsername: fp456
-      pivotalUsername: fernandapisconte
-      herokuEmail: fpisconte@berkeley.edu
