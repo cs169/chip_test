@@ -1,16 +1,12 @@
 project:
   name: 'Testing chips 10.5'
-  owner: fernandapisconte
+  owner: 'fernandapisconte'
   teamId: '123'
   identities: {}
   notifications:
 	email: 'fpisconte@berkeley.edu'
   members:
     member1:
-      name: Governify
-      surname: Auditor
-      githubUsername: governifyauditor
-    member2:
-      name: Fernanda
-      surname: Pisconte
-      githubUsername: fp456
+      name: 'Fernanda'
+      surname: 'Pisconte'
+      githubUsername: 'fp456'
