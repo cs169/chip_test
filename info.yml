@@ -4,7 +4,7 @@ project:
   teamId: '123'
   identities: {}
   notifications:
-	email: 'fpisconte@berkeley.edu'
+    email: 'fpisconte@berkeley.edu'
   members:
     member1:
       name: 'Fernanda'
